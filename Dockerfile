@@ -3,7 +3,7 @@
 # Version:1.0.0
 
 FROM index.tenxcloud.com/edcapding/beegoimage
-MAINTAINER Qi Gong Huang <huangqg@tenxcloud.com>
+MAINTAINER jinxiu wang <wangjinxu@tenxcloud.com>
 
 ADD src/. $GOPATH/src
 
